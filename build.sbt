@@ -11,7 +11,7 @@ crossScalaVersions := Seq("2.10.0-M6", "2.9.2", "2.9.1-1", "2.9.1", "2.9.0-1", "
 
 // 2.8.* -> 1.5.1, 2.9.* -> 1.6.1
 //libraryDependencies += ("org.scalatest" %% "scalatest" % "[1.5,)" % "test")
-libraryDependencies += "org.scalatest" % "scalatest_2.10.0-M5" % "1.9-2.10.0-M5-B2" % "test"
+libraryDependencies += "org.scalatest" %% "scalatest" % "1.9-2.10.0-M6-B1" % "test"
 
 libraryDependencies += ("junit" % "junit" % "4.5" % "test")
 
